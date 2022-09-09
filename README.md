@@ -14,7 +14,6 @@ You will need a terminal app of your choice installed in the Nox instance.
 <code>cp python3 /system/bin</code><br>
 <code>chmod 0755 /system/bin/python3</code><br>
 <code>cp -r Python.3.8.13.Lib /system/bin</code><br>
-<code>cp python.rc /etc</code><br><br>
 
 <b>Step 3:</b><i> Copy mkshrc to windows share</i><br>
 <code>cp /etc/mkshrc /mnt/shared/Other</code><br><br>
