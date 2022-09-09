@@ -23,8 +23,8 @@ You will need a terminal app of your choice installed in the Nox instance.
 <i>Open c:/users/<username>/Nox_share/Download/mkshrc in notepad++</i><br>
 <i>Add next three lines to end of file and save the changes</i><br><br>
 <code>PYTHONHOME="/system/bin"</code><br>
-<code>PYTHONPATH="/system/bin/Python.3.8.13.Lib"</code><br><br>
-<code>export PYTHONHOME PYTHONPATH</code><br>
+<code>PYTHONPATH="/system/bin/Python.3.8.13.Lib"</code><br>
+<code>export PYTHONHOME PYTHONPATH</code><br><br>
 
 <b>Step 5:</b> <i>Copy edited version back using nox terminal</i><br>
 <code>cp /mnt/shared/Other/mkshrc /etc/mkshrc</code><br><br>
