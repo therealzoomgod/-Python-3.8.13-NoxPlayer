@@ -19,7 +19,7 @@ You will need a terminal app of your choice installed in the Nox instance.
 <code>cp /etc/mkshrc /mnt/shared/Other</code><br><br>
 
 <b>Step 4:</b><i> Edit mkshrc using notepad++</i> (DO NOT USE WINDOWS NOTEPAD)<br>
-<i>Open c:/users/<username>/Nox_share/Download/mkshrc in notepad++</i><br>
+<i>Open c:/users/windows_username/Nox_share/Download/mkshrc in notepad++</i><br>
 <i>Add next three lines to end of file and save the changes</i><br><br>
 <code>PYTHONHOME="/system/bin"</code><br>
 <code>PYTHONPATH="/system/bin/Python.3.8.13.Lib"</code><br>
